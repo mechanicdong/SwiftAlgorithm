@@ -30,5 +30,5 @@ while start <= end {
         start = mid + 1
     }
 }
-print(start)
+print(start-1)
 
